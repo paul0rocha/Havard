@@ -1,50 +1,58 @@
-# Havard
+# Harvard
 
-Repositório criado para armazenar meus estudos, exercícios e projetos desenvolvidos durante minha jornada de aprendizado em programação.
+A repository dedicated to my studies, exercises, and projects developed throughout my programming and software development journey.
 
-## 📚 Sobre
+## 📚 About
 
-Este repositório reúne exercícios e projetos desenvolvidos principalmente durante os estudos de **CS50**, além de outros experimentos e atividades relacionadas ao desenvolvimento de software.
+This repository contains exercises and projects developed mainly during my studies with **CS50**, along with other programming experiments and software development activities.
 
-## 🚀 Conteúdos
+The goal is to practice programming concepts through hands-on projects and continuously improve my problem-solving and software engineering skills.
 
-Entre os projetos e exercícios presentes neste repositório estão:
+## 🚀 Topics Covered
 
-- C
+- C Programming
 - Python
-- Algoritmos
-- Estruturas de dados
-- Ponteiros e gerenciamento de memória
-- Recursão
+- Algorithms
+- Data Structures
+- Pointers
+- Memory Management
+- Recursion
 - SQL
-- Desenvolvimento Web
+- Databases
+- Web Development
 - HTTP
 - Flask
 - JavaScript
-- HTML e CSS
+- HTML & CSS
 
 ## 🧠 CS50
 
-Os projetos incluem exercícios relacionados ao curso **CS50**, explorando conceitos fundamentais de Ciência da Computação e programação.
+This repository includes projects and problem sets related to **CS50**, exploring fundamental concepts of Computer Science and programming.
 
-## 📂 Projetos
+### 🎓 CS50 Certificate
 
-Alguns dos projetos presentes:
+I successfully completed CS50 and earned the official certificate.
+
+📜 **[View my CS50 Certificate](https://certificates.cs50.io/84ae3bd0-6343-41b7-b517-eae1b793c634.pdf?size=letter)**
+
+## 📂 Projects
+
+Some of the projects included in this repository:
 
 - `Birthdays`
-- `fiftyville`
-- `finance`
-- `HomePage`
-- `HTTP-Server`
-- `movies`
+- `Fiftyville`
+- `Finance`
+- `Homepage`
+- `HTTP Server`
+- `Movies`
 - `Problem Set 0`
-- `sort`
-- `trivia`
+- `Sort`
+- `Trivia`
 - `Starting from Scratch`
 
-Além de exercícios individuais em C e Python.
+It also includes several individual exercises developed in **C and Python**.
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,13 +61,17 @@ Além de exercícios individuais em C e Python.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📸 Estudos
+## 📸 Learning Journey
 
 <img width="800" height="622" alt="CS50 Studies" src="https://github.com/user-attachments/assets/42c1516a-802b-4587-bf29-d1225a44f02c" />
 
-## 🎯 Objetivo
+## 🎯 Goal
 
-Construir uma base sólida em Ciência da Computação e Desenvolvimento de Software por meio de projetos práticos, desafios e aprendizado contínuo.
+Build a strong foundation in **Computer Science and Software Development** through practical projects, problem-solving, and continuous learning.
+
+## 📈 Continuous Learning
+
+This repository is continuously updated as I learn new technologies, concepts, and development practices.
 
 ---
 
